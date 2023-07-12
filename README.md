@@ -1,44 +1,100 @@
 # Week 1 Tech Sharks Challenge #2
+Project #2 for the Tech Sharks Community - Learn to Code with Tech Sharks!
 
-Certainly! Here's an example of a README file to describe the text-based adventure game project:
+Below you will find the second of our coding challenges!
 
-# Text-Based Adventure Game
+## Text-Based Story Game
 
-This text-based adventure game is a Java project designed to provide an interactive and engaging gaming experience. Players can navigate through various locations, interact with characters, solve puzzles, and progress through branching storylines.
+### Overview
+The Text-Based Story Game is a Java project where players can embark on an interactive adventure by making choices that shape the outcome of the story. It's an exciting opportunity to practice Java programming concepts such as object-oriented programming, conditional statements, and user input handling.
 
-## Features
+### Instructions
+1. The program presents players with a scenario and multiple choices.
+2. Players make their choice by entering a corresponding number or letter.
+3. Based on the chosen option, the program progresses the story and presents new scenarios or outcomes.
+4. The game continues until players reach an ending or completion point.
 
-- **Player Interaction**: Players can enter commands to navigate the game world, interact with characters, and manipulate objects.
-- **Location System**: The game includes a map of interconnected locations, each with its own description, characters, and items.
-- **Decision-Making**: Players are presented with choices that impact the game's progression, allowing for multiple storylines and outcomes.
-- **Challenges and Puzzles**: Engaging puzzles, mini-games, and challenges are integrated into the gameplay to keep players entertained.
-- **Scoring and Achievements**: A scoring system or achievements are implemented to track player progress and provide a sense of accomplishment.
+### Prerequisites
+- Java Development Kit (JDK) installed on your system.
+- A Java IDE or a text editor to write and run the code (e.g., Eclipse, IntelliJ, or Visual Studio Code).
 
-## Getting Started
+### Getting Started
+1. Clone the repository or download the source code files to your local machine.
+2. Open the project in your Java IDE or text editor.
 
-To run the text-based adventure game, follow these steps:
+### Usage
+1. Compile and run the `Main.java` file.
+2. Follow the instructions displayed in the console to play the game.
+3. Make your choice by entering the corresponding number or letter.
+4. The program will progress the story based on your choice.
+5. Continue making choices until you reach an ending or completion point.
+6. To play again, restart the program.
 
-1. Ensure that Java is installed on your system.
-2. Clone or download the project repository from [GitHub Link].
-3. Compile the Java files using your preferred IDE or command line tools.
-4. Run the main class (`Main.java`) to start the game.
-5. Follow the on-screen instructions and use the provided commands to play the game.
+### Example
+```
+Welcome to the Text-Based Story Game!
 
-## Contributing
+You find yourself standing at a crossroad. Which path will you choose?
 
-Contributions to the text-based adventure game project are welcome! If you have any ideas, improvements, or bug fixes, please feel free to submit a pull request. Ensure that you adhere to the project's coding conventions and maintain clear commit messages.
+1. Take the path to the left.
+2. Take the path to the right.
 
-## License
+Enter your choice: 1
 
-This project is licensed under the [MIT License](link-to-license-file). You are free to modify, distribute, and use the code in accordance with the terms and conditions of the license.
+You venture down the left path and come across a mysterious cave. What will you do?
 
-## Acknowledgements
+1. Enter the cave.
+2. Continue along the path.
 
-- Alexander Small: Tech Sharks founder
-- Keelan Bell: Tech Sharks mentor
+Enter your choice: 1
 
-## Contact
+You step into the dark cave, and as your eyes adjust, you notice a glimmering treasure chest in the corner. What do you do?
 
-If you have any questions, suggestions, or feedback, please contact [Your Name] at [your-email@example.com].
+1. Open the treasure chest.
+2. Leave the cave.
 
-Feel free to customize the README file based on your specific project details, such as adding installation instructions, gameplay screenshots, or any other relevant information.
+Enter your choice: 1
+
+Congratulations! You have found the legendary treasure and completed the game. Well done!
+
+```
+
+### Customization
+Feel free to customize the game by creating your own unique storylines, scenarios, and choices. Here are a few ideas to get you started:
+- Add more branching paths and endings to create a more complex narrative. (+5 points)
+- Implement a scoring system based on the player's choices. (+10 points)
+- Include random events or surprises throughout the game. (+10 points)
+- Introduce inventory management or puzzles for players to solve. (+15 points)
+
+### Housekeeping
+- Good coding practices (+15 points)
+
+### Contributing
+In order to submit your completed code, do so in the TechSharks discord server. Do not push anything to the main repository.
+
+Note: The project does not include unit tests. Users are encouraged to write their own unit tests to ensure code correctness and validate their modifications.
+
+### Learning Resources
+To learn more about Java programming, including topics like polymorphism and code duplication, you may find the following resources helpful:
+
+Oracle's Java Tutorials - Official tutorials from Oracle covering various Java concepts and features.
+
+Java Documentation - Official documentation for the Java platform, including detailed information about classes, methods, and APIs.
+
+Java Programming Masterclass for Software Developers - A comprehensive online course on Java programming available on Udemy.
+
+Java Code Geeks - A community-driven website offering tutorials, articles, and examples on Java programming.
+
+Stack Overflow - A popular Q&A platform where you can find answers to specific Java programming questions.
+
+
+### License
+This project is licensed under the [MIT License](LICENSE).
+
+### Acknowledgements
+The "Text-Based Story Game" project was inspired by various similar projects and is meant for educational purposes.
+
+That's it! Enjoy playing the "Text-Based Story Game" and have fun experimenting with the code. Happy coding!
+Make sure to follow the Tech Sharks platform on all social media!
+
+Project created by Keelan Bell, Tech Sharks mentor.
